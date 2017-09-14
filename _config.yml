@@ -1,6 +1,3 @@
 theme: jekyll-theme-cayman
-title: The title of your site2
+title: The title of your site3
 description: A short description of your site's purpose
-site:
-  github:
-    is_project_page: false
